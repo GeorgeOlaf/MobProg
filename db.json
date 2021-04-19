@@ -1,0 +1,39 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typecode"
+    },
+    "users": [
+      {
+        "id": 2,
+        "email": "Exhawahyne@yahxxx.com",
+        "firstName": "Michael",
+        "lastName": "Lawson"
+      },
+      {
+        "id": 3,
+        "email": "Exhawahyne@yahxxx.com",
+        "firstName": "Michael",
+        "lastName": "Lawson"
+      },
+      {
+        "email": "Tumundo27@gmail.com",
+        "firstName": "George ",
+        "lastName": "Olaf",
+        "id": 4
+      }
+    ]
+  }
